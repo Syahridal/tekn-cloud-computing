@@ -1,1 +1,0 @@
-ini saya coba push ke ko pu akun.
