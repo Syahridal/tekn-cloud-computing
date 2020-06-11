@@ -1,0 +1,1 @@
+[Latihan minggu 14, Kubernetes For Beginners.](/minggu-14/Latihan.md)
